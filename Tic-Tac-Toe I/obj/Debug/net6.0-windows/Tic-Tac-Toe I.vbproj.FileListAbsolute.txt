@@ -1,0 +1,19 @@
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic-Tac-Toe I.vbproj.AssemblyReference.cache
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic_Tac_Toe_I.TicTacToe.resources
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic-Tac-Toe I.vbproj.GenerateResource.cache
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic-Tac-Toe I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic-Tac-Toe I.AssemblyInfoInputs.cache
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic-Tac-Toe I.AssemblyInfo.vb
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic-Tac-Toe I.vbproj.CoreCompileInputs.cache
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\bin\Debug\net6.0-windows\Tic-Tac-Toe I.exe
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\bin\Debug\net6.0-windows\Tic-Tac-Toe I.deps.json
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\bin\Debug\net6.0-windows\Tic-Tac-Toe I.runtimeconfig.json
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\bin\Debug\net6.0-windows\Tic-Tac-Toe I.dll
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\bin\Debug\net6.0-windows\Tic-Tac-Toe I.pdb
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic-Tac-Toe I.dll
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\refint\Tic-Tac-Toe I.dll
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic-Tac-Toe I.pdb
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic-Tac-Toe I.genruntimeconfig.cache
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\ref\Tic-Tac-Toe I.dll
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic_Tac_Toe_I.Resources.resources
+C:\Users\Enrique\Mi unidad\Clase\2º\diseño de interfaces\Tic Tac Toe\Tic-Tac-Toe I\obj\Debug\net6.0-windows\Tic_Tac_Toe_I.Help.resources
